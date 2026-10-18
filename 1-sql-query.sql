@@ -1,4 +1,6 @@
 
+-- Veri tabanı ve tablolar oluşturuldu.
+
 create database db_library;
 
 use db_library;

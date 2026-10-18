@@ -1,4 +1,5 @@
 
+-- Yabancıl anahtar sütun ve kısıtlama tanımları yapılmıştır.
 
 use db_library
 
